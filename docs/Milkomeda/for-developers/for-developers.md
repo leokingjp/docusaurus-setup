@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'For Developers'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Getting Started for Developers
