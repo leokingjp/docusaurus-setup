@@ -1,7 +1,8 @@
 ---
+sidebar_label: 'Getting Started'
 sidebar_position: 1
-sidebar_label: 'Milkomeda Getting Started'
 ---
+
 
 # Getting Started with Milkomeda
 
